@@ -5,7 +5,7 @@ from sklearn.metrics import mean_absolute_error, r2_score
 import matplotlib.pyplot as plt
 
 # Load data
-df = pd.read_csv('data/student_data.csv')
+df = pd.read_csv('student_data.csv')
 
 # Features and target
 X = df[['past_score', 'attendance_pct', 'sleep_hours', 'subject_difficulty']]
