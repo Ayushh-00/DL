@@ -1,8 +1,9 @@
 # Project Report — Student Study Time Predictor
 ### BYOP Capstone | Machine Learning / AI Course | VITyarthi
 
-**Name:** [Your Full Name] | **Roll No:** [Your Roll No] | **Branch:** [Your Branch]
-**GitHub:** https://github.com/YOUR_USERNAME/student-study-predictor
+**Name:** **Ayush Kumar Singh** | **Reg No:** 25BCE11163 | **Branch:** B.Tech- CSE
+
+**GitHub:** (https://github.com/Ayushh-00/DL.git)
 
 ---
 
@@ -20,7 +21,7 @@ Students frequently misjudge how much preparation an exam requires. Without any 
 
 ## 3. Objective
 
-Build a supervised ML regression model that predicts the required study hours based on four inputs: past exam score, attendance percentage, sleep hours, and subject difficulty — applying the core ML pipeline taught in this course.
+Build a supervised ML regression model that predicts the required study hours based on four inputs: past exam score, attendance percentage, sleep hours, and subject difficulty,  applying the core ML pipeline taught in this course.
 
 ---
 
@@ -112,4 +113,4 @@ This project applied supervised machine learning to a genuine, everyday problem 
 4. Matplotlib Documentation — https://matplotlib.org
 
 ---
-*Submitted on VITyarthi | Machine Learning / AI Course — BYOP Capstone*
+*Submitted on VITyarthi BY AYUSH KUMAR SINGH 25BCE11163| Machine Learning / AI Course — BYOP Capstone*
