@@ -12,4 +12,4 @@ data = pd.DataFrame({
     'study_hours_needed': np.random.uniform(1, 10, n).round(1)
 })
 
-data.to_csv('data/student_data.csv', index=False)
+data.to_csv('student_data.csv', index=False)
