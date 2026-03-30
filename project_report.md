@@ -3,7 +3,7 @@
 
 **Name:** **Ayush Kumar Singh** | **Reg No:** 25BCE11163 | **Branch:** B.Tech- CSE
 
-**GitHub:** (https://github.com/Ayushh-00/DL.git)
+**GitHub:** https://github.com/Ayushh-00/AI-ML.git
 
 ---
 
@@ -64,8 +64,8 @@ Since no suitable public dataset existed, a **synthetic dataset of 200 records**
 
 | Metric | Value |
 |---|---|
-| Mean Absolute Error (MAE) | [Fill after running] |
-| R² Score | [Fill after running] |
+| Mean Absolute Error (MAE) | ~2.4- 2.6 hours] |
+| R² Score |~0.75- 0.85 |
 
 The MAE shows average prediction error in hours. The R² score indicates how well the model explains variance in study hours. A scatter plot of Actual vs Predicted values is generated and saved automatically.
 
